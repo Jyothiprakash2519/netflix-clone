@@ -10,5 +10,9 @@ Currently, two official plugins are available:
 Netflix clone created using ReactJS and Vite and Firebase
 added siginin and signup using firebase and responsive
 
+if you want to visit this demo site while you enter this site it will display warning [Dangerous site] go to details and click on [Only visit this unsafe site]
+
+its totally an demo site build on reactJS and vite
+
 live-site : [https://viewlive-project.netlify.app/]
 credentials: jayob88086@nausard.com , jayob123
