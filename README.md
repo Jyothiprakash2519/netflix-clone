@@ -9,5 +9,6 @@ Currently, two official plugins are available:
 
 Netflix clone created using ReactJS and Vite and Firebase
 added siginin and signup using firebase and responsive
+
 live-site : https://jyothiprakash2519.netlify.app/
 credentials: jayob88086@nausard.com , jayob123
